@@ -5,5 +5,5 @@
 """ Pyflow: An open-source tool for modular visual programing in python """
 
 __appname__ = "Pyflow"
-__author__ = "Mathïs Fédérico"
-__version__ = "1.0.0"
+__author__ = "Mathïs Fédérico, Me"
+__version__ = "1.0.1"
