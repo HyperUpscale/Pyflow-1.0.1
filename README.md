@@ -39,12 +39,18 @@ Check out this quick video comparing features between Pyflow to Jupyter:
 </p>
 
 ## Installation
-Make sure you have Python 3 installed. Tested with 3.11
+Make sure you have Python 3 installed. Tested with 3.10
 
 ### Install PyFlow on Windows
  
 <p> install.bat
 </p>
+
+Or try with conda (check if you have with "conda -V" in the CMD terminal  )
+
+1. conda create -n pyflow python=3.10 -y && conda activate pyflow
+2. pip install -r requirements.txt && pip install .
+3. cd pyflow && python -m pyflow'''
 
 See [SHORTCUTS.md](SHORTCUTS.md) for a better experience.
 
